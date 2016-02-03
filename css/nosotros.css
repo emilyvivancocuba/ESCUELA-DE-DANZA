@@ -1,0 +1,62 @@
+section.dance_7{
+	background-image: url(../img/dance_7.jpg);
+	height: 390px;
+	background-size: 1800px !important;
+	background-repeat: no-repeat;
+	background-position: 0% 38%;
+}
+section.dance_7 div.opaco{
+	margin: 0px auto;
+	background-color: rgba(0, 0, 0, 0.4);
+	width: 35%;
+	position: relative;
+	top: 30%;
+}
+section.dance_7 div.opaco p{
+	font-size: 14px;
+}
+section.cubes{
+	background-image: url(../img/cubes.png);
+	background-size: 4%;
+	padding: 5% 10%;
+}
+.text-gray-pilar{
+	color: #B1B1B1;
+}
+.text-gray-pilar-d{
+	color: #9F9F9F;
+}
+div.us-trainers{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top;
+	height: 188px;
+}
+.prof-4{
+	background-image: url(../img/profesor_4.jpg);
+}
+.prof-14{
+	background-image: url(../img/profesor_14.jpg);
+}
+.prof-1{
+	background-image: url(../img/profesor_1.jpg);
+}
+.prof-10{
+	background-image: url(../img/profesor_10.jpg);
+}
+.prof-11{
+	background-image: url(../img/profesor_11.jpg);
+}
+.prof-12{
+	background-image: url(../img/profesor_12.jpg);
+}
+.prof-9{
+	background-image: url(../img/profesor_9.jpg);
+}
+.prof-15{
+	background-image: url(../img/profesor_15.jpg);
+}
+section.cubes h1{
+	font-size: 40px;
+	font-weight: normal;
+}

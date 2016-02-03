@@ -1,0 +1,37 @@
+div.class-ofers{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 420px;
+}
+.dance-12{
+	background-image: url(../img/dance_12.jpg);
+}
+.breakdance{
+	background-image: url(../img/breakdance.jpg);
+}
+.lirical-jazz{
+	background-image: url(../img/lirical-jazz.jpg);
+}
+.arabe{
+	background-image: url(../img/arabe.jpg);
+}
+.little{
+	background-image: url(../img/little.jpg);
+}
+.yoga{
+	background-image: url(../img/yoga.jpg);
+}
+div.opaco1{
+	margin: 0px auto;
+	top: 35%;
+	background-color: rgba(0, 0, 0, 0.7);
+	width: 85%;
+	position: relative;
+}
+div.opaco1 h5{
+	font-size: 12px;
+}
+div.opaco1 p{
+	font-size: 14px;
+}

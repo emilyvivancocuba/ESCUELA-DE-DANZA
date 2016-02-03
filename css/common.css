@@ -1,0 +1,84 @@
+a{
+	text-decoration: none;
+}
+header h1 a{
+	color: #192951;
+}
+header{
+	background-color: white;
+}
+header nav ul{
+	list-style-type: none;
+	padding: 30px 0px 30px 0px;
+}
+header nav li{
+	position: relative;
+	display: inline-block;
+}
+header nav li:hover a{
+	background-color: #08121F;
+}
+header nav a{
+	padding: 15px 40px;
+	color: #ACACAC;
+}
+header nav a:hover{
+	color: white;
+	text-shadow: 1px 1px 2px white;
+}
+section.smartbar{
+	background-image: url(../img/shoes_!.jpg);
+	background-position: right center;
+	background-repeat: no-repeat;
+	background-size: 825px 605px;
+}
+section.smartbar h1{
+	font-size: 35px;
+}
+section.smartbar input, section.smartbar textarea{
+	box-shadow: inset 0 0 0 2px #CACACA;
+	background-repeat: no-repeat;
+	background-position:4%;
+	background-color: transparent;
+	background-size: 6%;
+	border: none;
+	border-radius: 1px;
+	-webkit-border-radius: 1px;
+	color: #222;
+	font-size: 14px;	
+	padding: 0% 10%;
+	margin-bottom: 10px;
+	height: 40px;	
+	width: 90%;	
+}
+section.smartbar input.smartbar-nombre{
+	background-image: url(http://rexkirby.com/kirbyandson/images/name.svg);
+}
+section.smartbar input.smartbar-email{
+	background-image: url(http://rexkirby.com/kirbyandson/images/email.svg);
+}
+section.smartbar textarea.smartbar-mensaje{
+	background-image: url(http://rexkirby.com/kirbyandson/images/comment.svg);
+	background-position: 4% 5%;
+	height: 200px !important;
+	padding-top: 3% !important;
+}
+button.azul{
+	font-size: 16px;
+	color: #D5D5D5;
+	background-color: #192951;
+	border-radius: 20px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-style: none;
+	border: 0px solid #000000;
+	cursor: pointer;
+}
+button.enviar{
+	width: 90%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+footer{
+	font-size: 12px;
+}

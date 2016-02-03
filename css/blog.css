@@ -1,0 +1,25 @@
+div.blog1{
+	background-image: url(../img/blog1.jpg);
+	height: 214px;
+}
+div.bg-gray-opaco{
+	background-color: rgba(0, 0, 0, 0.1);
+	height: 214px;
+}
+button.vermas{
+	width: 20%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	font-size: 13px;
+}
+div.bg-gray-opaco p{
+	font-size: 13px;
+}
+div.profesor-5{
+	background-image: url(../img/profesor_5.jpg);
+	height: 214px;
+}
+div.instructor-1{
+	background-image: url(../img/instructor_1.jpg);
+	height: 214px;
+}

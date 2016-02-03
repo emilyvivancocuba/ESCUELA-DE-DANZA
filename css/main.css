@@ -1,0 +1,98 @@
+section.studio{
+	background-image: url(../img/dance_1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top;
+	height: 404px;
+}
+section.studio h1{
+	font-size: 65px;
+	padding-bottom: 20px;
+}
+section.studio p{
+	font-size: 12px;
+	padding-bottom: 10px;
+}
+section.studio a{
+	padding: 15px 25px;
+	background-color: #040F1E;
+	color: #D5D5D5;
+	font-size: 13px;
+}
+section.studio a:hover{
+	background-color: white;
+	color: black;
+}
+section.Oferta-clases, section.cursiva{
+	background-image: url(../img/textura_2.jpg);
+}
+section.Oferta-clases h1{
+	padding-left: 25%;
+	padding-right: 25%;
+}
+section.Oferta-clases div.decoration_1{
+	background-image: url(../img/decoration_1.png);
+	background-size: 120px;
+	height: 100px;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-bottom: 50px;
+}
+button.oferta{
+	padding: 20px 80px;
+	color: #D5D5D5;
+}
+div.instructor_4{
+	background-image: url(../img/instructor_4.jpg);
+	height: 340px;
+	border-color: #192951;
+	border:2px 0px;
+	border-style: solid;
+}
+div.profesor_9{
+	background-image: url(../img/profesor_9.jpg);
+	height: 340px;
+	border-color: #192951;
+	border:2px 0px;
+	border-style: solid;
+}
+div.bluebox{
+	z-index: 1;
+	position: absolute;
+	margin: 0px auto;
+	margin-top: -80px;
+	margin-left: 30%;
+	width: 40%;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: #192951;
+	color: #D5D5D5;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+section.cursiva h1{
+	font-size: 40px;
+	font-weight: normal;
+}
+section.bg-blue{
+	color: #D5D5D5;
+	font-size: 15px;
+}
+section.bg-blue p{
+	font-size: 14px;
+	padding-bottom: 5%;
+}
+section.bg-blue ul{
+	list-style-type: none;
+}
+section.bg-blue ul img{
+	width: 15px;
+}
+section.bg-blue a{
+	color: #00AFF0;
+}
+section.bg-blue iframe{
+	width: 450px;
+	height: 300px;
+}

@@ -1,0 +1,153 @@
+/*Global*/
+*{
+	font-family: "Latolight";
+}
+
+@font-face{
+	font-family: LatoHeavy;
+	src: url(../fonts/LatoHeavy.ttf);
+}
+@font-face{
+	font-family:Latolight ;
+	src: url(../fonts/Latolight.ttf);
+}
+@font-face{
+	font-family: DolceVita;
+	src: url(../fonts/DolceVita.ttf);
+}
+@font-face{
+	font-family: Neoteric-Bold;
+	src: url(../fonts/Neoteric-Bold.ttf);
+}
+
+/* Shortcuts */
+
+.pd-0{
+	padding: 0;
+}
+.pd-3{
+	padding: 3%;
+}
+.pd-5{
+	padding: 5%;
+}
+.pd-10{
+	padding: 10%;
+}
+.pl-5{
+	padding-left: 5%;
+}
+.pr-5{
+	padding-right: 5%;
+}
+.pr-25{
+	padding-right: 25%;
+}
+.pl-3{
+	padding-left: 3%;
+}
+.pl-10{
+	padding-left: 10%;
+}
+.pd-5-10{
+	padding: 5% 10%;
+}
+.plr-3{
+	padding-left: 3%;
+	padding-right: 3%;
+}
+.plr-5{
+	padding-left: 5%;
+	padding-right: 5%;
+}
+.plr-10{
+	padding-left: 10%;
+	padding-right: 10%;
+}
+.plr--14{
+	padding-left: -14px;
+	padding-right: -14px;
+}
+.plr-15{
+	padding-left: 15%;
+	padding-right: 15%;
+}
+.pt-3{
+	padding-top: 3%;
+}
+.pt-5{
+	padding-top: 5%;
+}
+.pt-7{
+	padding-top: 7%;
+}
+.pt-10{
+	padding-top: 10%;
+}
+.pd-2{
+	padding: 2%;
+}
+.pb-3{
+	padding-bottom: 3%;
+}
+.pb-5{
+	padding-bottom: 5%;
+}
+.pb-8{
+	padding-bottom: 8%;
+}
+.pb-10{
+	padding-bottom: 10%;
+}
+.pb-28{
+	padding-bottom: 28px;
+}
+.mg-0{
+	margin: 0;
+}
+.w-100{
+	width: 100%;
+}
+.w-50{
+	width: 50%;
+}
+.lh{
+	line-height: 1.5;
+}
+.text-center{
+	text-align: center;
+}
+.text-left{
+	text-align: left;
+}
+.text-white{
+	color: white;
+}
+.text-gray{
+	color: #D5D5D5;
+}
+.text-gray-dark{
+	color: rgb(83, 88, 95);
+}
+.text-blue{
+ color: #192951;
+}
+.a-none-decoration{
+	text-decoration: none;
+}
+.bg-gray{
+	background-color: rgb(244, 244, 244);
+}
+.bg-blue{
+	background-color: #192951;
+}
+.bg-img-block{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.bg-img-pos-top{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top;
+}
